@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+    padding:0;
+    font-family: sans-serif;
+    width: 100%;
+    max-width: 1440px;
+    background-color: lightpink;
+}
+.container {
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    max-width: 1440px;
+}
+.inner {
+    margin: 0 auto;
+    padding: 0;
+}
+.navbar {
+    width: 1440px;
+    background-color: #fff;
+    margin-top: 50px;
+}
+#navbarSupportedContent {
+    width: 300px;
+}
+.navbar-brand {
+    color: grey;
+}
+.navbar-brand:hover {
+    color: pink;
+}
+.nav-link {
+    color: grey;
+    margin-right: 0;
+}
+.nav-link:hover {
+    color: pink;
+}
+
+.btn-outline-success {
+    background-color: #fff;
+    color: grey;
+    border: 1px solid grey;
+}
+.btn:hover{
+    color: pink;
+    background-color: #fff;
+    border-color: pink;
+}
+.carousel{
+    width:70%;  /*サイズ指定*/
+    margin:auto;
+ }
+ .carousel img{
+    border: 1px lightpink solid;
+    height: 600px;
+    border-radius: 5px;
+    border-radius: 200px 400px 0px 500px;
+ }
+ .carousel-item {
+     margin: 50px 0;
+ }
+
+ .blog {
+     margin-right: 30px;
+     color: #fff;
+ }
+
+ .flex {
+     display: flex;
+     padding: 0 330px;
+     margin-bottom: 60px;
+ }
+ .text {
+     position: relative;
+     top: 50px;
+ }

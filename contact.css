@@ -1,0 +1,72 @@
+body {
+    background-color: pink;
+}
+.container {
+    margin: 0px;
+    padding: 0;
+}
+.navbar {
+    width: 1440px;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+#navbarSupportedContent {
+    width: 300px;
+}
+.navbar-brand {
+    color: grey;
+}
+.navbar-brand:hover {
+    color: pink;
+}
+.nav-link {
+    color: grey;
+    margin-right: 0;
+}
+.nav-link:hover {
+    color: pink;
+}
+.btn-outline-success {
+    background-color: #fff;
+    color: grey;
+    border: 1px solid grey;
+}
+.btn:hover{
+    color: pink;
+    background-color: #fff;
+    border-color: pink;
+}
+.form {
+    width: 800px;
+    margin: 100px 330px;
+    border: 3px solid #fff;
+    padding: 30px;
+}
+
+
+.form-group {
+    margin-bottom: 0rm;
+    align: center;
+}
+h2 {
+    text-align: center;
+}
+#exampleInputEmail1 {
+    width: 600px;
+    background-color: #fff;
+}
+
+#exampleInputPassword1 {
+    width: 600px;
+    background-color: #fff;
+}
+
+.btn-primary {
+    background-color: #fff;
+    color: black;
+    border: grey;
+}
+button {
+    text-align: center;
+}
